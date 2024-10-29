@@ -1,0 +1,10 @@
+D:\LapTrinhMang\TruyenFile\Server\bin\Debug\Server.exe.config
+D:\LapTrinhMang\TruyenFile\Server\bin\Debug\Server.exe
+D:\LapTrinhMang\TruyenFile\Server\bin\Debug\Server.pdb
+D:\LapTrinhMang\TruyenFile\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\LapTrinhMang\TruyenFile\Server\obj\Debug\Server.Properties.Resources.resources
+D:\LapTrinhMang\TruyenFile\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\LapTrinhMang\TruyenFile\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\TruyenFile\Server\obj\Debug\Server.exe
+D:\LapTrinhMang\TruyenFile\Server\obj\Debug\Server.pdb
+D:\LapTrinhMang\TruyenFile\Server\obj\Debug\Server.Form1.resources

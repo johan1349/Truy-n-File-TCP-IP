@@ -1,0 +1,10 @@
+D:\LapTrinhMang\TruyenFile\Client\bin\Debug\Client.exe.config
+D:\LapTrinhMang\TruyenFile\Client\bin\Debug\Client.exe
+D:\LapTrinhMang\TruyenFile\Client\bin\Debug\Client.pdb
+D:\LapTrinhMang\TruyenFile\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\LapTrinhMang\TruyenFile\Client\obj\Debug\Client.Form1.resources
+D:\LapTrinhMang\TruyenFile\Client\obj\Debug\Client.Properties.Resources.resources
+D:\LapTrinhMang\TruyenFile\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\LapTrinhMang\TruyenFile\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\TruyenFile\Client\obj\Debug\Client.exe
+D:\LapTrinhMang\TruyenFile\Client\obj\Debug\Client.pdb
