@@ -15,7 +15,7 @@ namespace Server
         public Form1()
         {
             InitializeComponent();
-            Server.path = "C:/Users/Acer/Desktop";
+            Server.path = "C:\\Users\\HP\\Downloads";
         }
         public static string path;
         public static string MessageCurrent = "Stopped";
