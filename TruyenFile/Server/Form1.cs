@@ -12,16 +12,17 @@ namespace Server
 {
     public partial class Form1 : Form
     {
+        public static string path;
         public Form1()
         {
             InitializeComponent();
-            Server.path = "C:/Users/Acer/Desktop";
+            Server.path = "C:\\Users\\HP\\Desktop";
         }
-        public static string path;
+
         public static string MessageCurrent = "Stopped";
         private void Form1_Load(object sender, EventArgs e)
         {
-            if(Server.path.Length > 0)
+            if (Server.path.Length > 0)
             {
                 backgroundWorker1.RunWorkerAsync();
 
