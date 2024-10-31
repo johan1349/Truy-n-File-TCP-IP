@@ -44,6 +44,7 @@ namespace Server
         //        }catch(Exception ex)
         //        {
         //            MessageCurrent = "Error " + ex.Message;
+        //testloi
         //        }
         //    }
         //}
