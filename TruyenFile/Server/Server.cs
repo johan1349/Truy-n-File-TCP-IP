@@ -28,7 +28,7 @@ namespace Server
             {
                 MessageCurrent = "Bắt đầu";
                 sock.Listen(100);
-                MessageCurrent = "Server đã sẳn sàng để nhận file";
+                MessageCurrent = "Server đã kết nối với client  để nhận file";
                 Socket clientSock = sock.Accept();
                 byte[] clientData = new byte[1024 * 20000];
                 int receiveByteLen = clientSock.Receive(clientData);
