@@ -8,3 +8,13 @@ D:\LapTrinhMang\TruyenFile\Server\obj\Debug\Server.csproj.CoreCompileInputs.cach
 D:\LapTrinhMang\TruyenFile\Server\obj\Debug\Server.exe
 D:\LapTrinhMang\TruyenFile\Server\obj\Debug\Server.pdb
 D:\LapTrinhMang\TruyenFile\Server\obj\Debug\Server.Form1.resources
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Server\bin\Debug\Server.exe.config
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Server\bin\Debug\Server.exe
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Server\bin\Debug\Server.pdb
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Server\obj\Debug\Server.Form1.resources
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Server\obj\Debug\Server.exe
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Server\obj\Debug\Server.pdb

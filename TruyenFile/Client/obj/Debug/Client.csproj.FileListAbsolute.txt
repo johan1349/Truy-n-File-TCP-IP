@@ -8,3 +8,13 @@ D:\LapTrinhMang\TruyenFile\Client\obj\Debug\Client.csproj.GenerateResource.cache
 D:\LapTrinhMang\TruyenFile\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 D:\LapTrinhMang\TruyenFile\Client\obj\Debug\Client.exe
 D:\LapTrinhMang\TruyenFile\Client\obj\Debug\Client.pdb
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Client\bin\Debug\Client.exe.config
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Client\bin\Debug\Client.exe
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Client\bin\Debug\Client.pdb
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Client\obj\Debug\Client.Form1.resources
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Client\obj\Debug\Client.exe
+D:\Truyenfile\TruyenFileTCP-IP\TruyenFile\Client\obj\Debug\Client.pdb
