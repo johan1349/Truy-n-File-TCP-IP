@@ -1,0 +1,6 @@
+[18-Nov-24 4:42:20 PM] General error: No connection could be made because the target machine actively refused it 127.0.0.1:8080
+[18-Nov-24 4:58:45 PM] General error: No connection could be made because the target machine actively refused it 127.0.0.1:8080
+[18-Nov-24 5:45:52 PM] Unexpected error: Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+[18-Nov-24 5:45:52 PM] File transfer incomplete for 'file5gb.rar'. 485507072/4631515200 bytes sent.
+[19-Nov-24 8:42:38 PM] General error: No connection could be made because the target machine actively refused it 127.0.0.1:100
+[19-Nov-24 8:42:57 PM] General error: No connection could be made because the target machine actively refused it 127.0.0.121:8080

@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA6FB935-5BF9-480B-9373-45F91BDC22DE}|Server\\Server.csproj|D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA6FB935-5BF9-480B-9373-45F91BDC22DE}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1FBBE80-1592-48F5-A322-12E02EBC8C26}|Server\\Server.csproj|d:\\truyenfile\\truyenfiletcp-ip\\truyenfile\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FBBE80-1592-48F5-A322-12E02EBC8C26}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E68B08F-82C0-49D1-AC0E-8EC1B64892D2}|Client\\Client.csproj|D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E68B08F-82C0-49D1-AC0E-8EC1B64892D2}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A42826A-98B8-4B5A-BDB5-0F7BD29001A1}|Client\\Client.csproj|D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A42826A-98B8-4B5A-BDB5-0F7BD29001A1}|Client\\Client.csproj|solutionrelative:client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA6FB935-5BF9-480B-9373-45F91BDC22DE}|Server\\Server.csproj|D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA6FB935-5BF9-480B-9373-45F91BDC22DE}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2A42826A-98B8-4B5A-BDB5-0F7BD29001A1}|Client\\Client.csproj|D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A42826A-98B8-4B5A-BDB5-0F7BD29001A1}|Client\\Client.csproj|solutionrelative:client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E68B08F-82C0-49D1-AC0E-8EC1B64892D2}|Client\\Client.csproj|D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8E68B08F-82C0-49D1-AC0E-8EC1B64892D2}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2A42826A-98B8-4B5A-BDB5-0F7BD29001A1}|Client\\Client.csproj|D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\client\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A42826A-98B8-4B5A-BDB5-0F7BD29001A1}|Client\\Client.csproj|solutionrelative:client\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E68B08F-82C0-49D1-AC0E-8EC1B64892D2}|Client\\Client.csproj|d:\\truyenfile\\truyenfiletcp-ip\\truyenfile\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E68B08F-82C0-49D1-AC0E-8EC1B64892D2}|Client\\Client.csproj|solutionrelative:client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1FBBE80-1592-48F5-A322-12E02EBC8C26}|Server\\Server.csproj|D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\server\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FBBE80-1592-48F5-A322-12E02EBC8C26}|Server\\Server.csproj|solutionrelative:server\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA6FB935-5BF9-480B-9373-45F91BDC22DE}|Server\\Server.csproj|D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA6FB935-5BF9-480B-9373-45F91BDC22DE}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1FBBE80-1592-48F5-A322-12E02EBC8C26}|Server\\Server.csproj|D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1FBBE80-1592-48F5-A322-12E02EBC8C26}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.Designer.cs",
+              "DocumentMoniker": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Client\\Client.Designer.cs",
+              "RelativeDocumentMoniker": "Client\\Client.Designer.cs",
+              "ToolTip": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Client\\Client.Designer.cs",
+              "RelativeToolTip": "Client\\Client.Designer.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAAIMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:55:56.798Z",
+              "IsPinned": true
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,74 +57,55 @@
               "RelativeDocumentMoniker": "Server\\Server.cs",
               "ToolTip": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Server\\Server.cs",
               "RelativeToolTip": "Server\\Server.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T18:48:23.808Z",
+              "WhenOpened": "2024-11-18T03:54:49.675Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Server\\Form1.cs",
-              "RelativeDocumentMoniker": "Server\\Form1.cs",
-              "ToolTip": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Server\\Form1.cs",
-              "RelativeToolTip": "Server\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T17:51:23.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Server\\Form1.cs",
-              "RelativeDocumentMoniker": "Server\\Form1.cs",
-              "ToolTip": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Server\\Form1.cs [Design]",
-              "RelativeToolTip": "Server\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T17:49:06.545Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Client\\Form1.cs",
-              "RelativeDocumentMoniker": "Client\\Form1.cs",
-              "ToolTip": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Client\\Form1.cs",
-              "RelativeToolTip": "Client\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T17:31:37.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Client.cs",
               "DocumentMoniker": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Client\\Client.cs",
               "RelativeDocumentMoniker": "Client\\Client.cs",
               "ToolTip": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Client\\Client.cs",
               "RelativeToolTip": "Client\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T17:00:04.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T03:54:35.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Client\\Form1.cs",
-              "RelativeDocumentMoniker": "Client\\Form1.cs",
-              "ToolTip": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Client\\Form1.cs [Design]",
-              "RelativeToolTip": "Client\\Form1.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Compressed\\testTinhNang\\largeFileTrans_MBchunk\\Server\\Server.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T16:59:04.012Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-19T13:29:28.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Client\\Client.cs",
+              "RelativeDocumentMoniker": "Client\\Client.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Compressed\\testTinhNang\\largeFileTrans_MBchunk\\Client\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:29:07.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Server.Designer.cs",
+              "DocumentMoniker": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Server\\Server.Designer.cs",
+              "RelativeDocumentMoniker": "Server\\Server.Designer.cs",
+              "ToolTip": "D:\\Truyenfile\\TruyenFileTCP-IP\\TruyenFile\\Server\\Server.Designer.cs",
+              "RelativeToolTip": "Server\\Server.Designer.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:54:58.56Z"
             }
           ]
         }
